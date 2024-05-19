@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Angelos Alexopoulos</title>
+    <link>https://alexopoulosA.github.io/publication/</link>
+      <atom:link href="https://alexopoulosA.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 22 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alexopoulosA.github.io/media/icon_hub474585770d5ca42dbc049bc27f5f4d1_55323_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://alexopoulosA.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>A stochastic dynamical model for epidemic nowcasting and forecasting</title>
+      <link>https://alexopoulosA.github.io/publication/epidemics_forecasting/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://alexopoulosA.github.io/publication/epidemics_forecasting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A machine learning approach to construct quarterly data on intangible investment for Eurozone</title>
+      <link>https://alexopoulosA.github.io/publication/intangible/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://alexopoulosA.github.io/publication/intangible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Bayesian multivariate factor analysis model for causal inference using time series observational data on mixed outcomes</title>
+      <link>https://alexopoulosA.github.io/publication/causal_ltp/</link>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://alexopoulosA.github.io/publication/causal_ltp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Networks and machine learning to detect Value Added Tax fraud</title>
+      <link>https://alexopoulosA.github.io/publication/vat/</link>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://alexopoulosA.github.io/publication/vat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variance reduction for Metropolis-Hastings samplers</title>
+      <link>https://alexopoulosA.github.io/publication/variance_reduction/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://alexopoulosA.github.io/publication/variance_reduction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian prediction of jumps in large panels of time series data</title>
+      <link>https://alexopoulosA.github.io/publication/jumps/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://alexopoulosA.github.io/publication/jumps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Variable Selection for Gaussian copula regression models</title>
+      <link>https://alexopoulosA.github.io/publication/bvs_copula/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://alexopoulosA.github.io/publication/bvs_copula/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian forecasting of mortality rates by using latent Gaussian models</title>
+      <link>https://alexopoulosA.github.io/publication/mortality/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://alexopoulosA.github.io/publication/mortality/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
